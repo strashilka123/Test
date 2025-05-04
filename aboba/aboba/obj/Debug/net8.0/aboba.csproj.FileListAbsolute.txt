@@ -12,3 +12,4 @@ C:\Users\Легенда\Desktop\Test\aboba\aboba\obj\Debug\net8.0\refint\aboba.d
 C:\Users\Легенда\Desktop\Test\aboba\aboba\obj\Debug\net8.0\aboba.pdb
 C:\Users\Легенда\Desktop\Test\aboba\aboba\obj\Debug\net8.0\aboba.genruntimeconfig.cache
 C:\Users\Легенда\Desktop\Test\aboba\aboba\obj\Debug\net8.0\ref\aboba.dll
+C:\Users\Легенда\Desktop\Test\aboba\aboba\obj\Debug\net8.0\aboba.sourcelink.json
