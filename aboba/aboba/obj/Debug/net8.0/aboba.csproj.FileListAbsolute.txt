@@ -1,0 +1,14 @@
+C:\Users\Легенда\Desktop\Test\aboba\aboba\bin\Debug\net8.0\aboba.exe
+C:\Users\Легенда\Desktop\Test\aboba\aboba\bin\Debug\net8.0\aboba.deps.json
+C:\Users\Легенда\Desktop\Test\aboba\aboba\bin\Debug\net8.0\aboba.runtimeconfig.json
+C:\Users\Легенда\Desktop\Test\aboba\aboba\bin\Debug\net8.0\aboba.dll
+C:\Users\Легенда\Desktop\Test\aboba\aboba\bin\Debug\net8.0\aboba.pdb
+C:\Users\Легенда\Desktop\Test\aboba\aboba\obj\Debug\net8.0\aboba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Легенда\Desktop\Test\aboba\aboba\obj\Debug\net8.0\aboba.AssemblyInfoInputs.cache
+C:\Users\Легенда\Desktop\Test\aboba\aboba\obj\Debug\net8.0\aboba.AssemblyInfo.cs
+C:\Users\Легенда\Desktop\Test\aboba\aboba\obj\Debug\net8.0\aboba.csproj.CoreCompileInputs.cache
+C:\Users\Легенда\Desktop\Test\aboba\aboba\obj\Debug\net8.0\aboba.dll
+C:\Users\Легенда\Desktop\Test\aboba\aboba\obj\Debug\net8.0\refint\aboba.dll
+C:\Users\Легенда\Desktop\Test\aboba\aboba\obj\Debug\net8.0\aboba.pdb
+C:\Users\Легенда\Desktop\Test\aboba\aboba\obj\Debug\net8.0\aboba.genruntimeconfig.cache
+C:\Users\Легенда\Desktop\Test\aboba\aboba\obj\Debug\net8.0\ref\aboba.dll
